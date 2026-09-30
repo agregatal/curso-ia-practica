@@ -1,1 +1,1 @@
-# curso-ia-practica.
+# curso-ia-practica
